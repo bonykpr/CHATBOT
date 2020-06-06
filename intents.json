@@ -16,7 +16,7 @@
         },
         {"tag": "name",
          "patterns":["what s your name", "what should  call you", "what's your name?"],
-         "responses": ["you can call me Bony", "I'm Bony", "I'm Bony aka Bony's tune",
+         "responses": ["you can call me Bony", "I'm Bony", "I'm Bony aka Bony's tune"],
          "context_set": ""
         },
         {"tag": "shop",
