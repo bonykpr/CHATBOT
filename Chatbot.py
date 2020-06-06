@@ -4,7 +4,7 @@ stemmer= LancasterStemmer()
 
 import numpy
 import tflearn
-import tensorflow as tf
+import tensorflow
 import random
 import json
 import pickle
