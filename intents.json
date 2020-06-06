@@ -1,6 +1,6 @@
 {"intents": [
         {"tag": "greeting",
-         "patterns": ["hi", "how are you", is there anyone?", "hello", "good day", "wbhats up"],
+         "patterns": ["hi", "how are you", "is there anyone?", "hello", "good day", "wbhats up"],
          "responses": ["Hello!", "Good top see you again", "hi, there how can i help?"],
          "context_set": ""
         },
@@ -21,7 +21,7 @@
         },
         {"tag": "shop",
          "patterns": ["i'd like to buy something", "what's on the menu", "what do you recommend", "could  get something"],
-         "responses":[we sell chocolate cookies for $2", "Cookies are on the menu"],
+         "responses":["we sell chocolate cookies for $2", "Cookies are on the menu"],
          "context_set": ""
         },
         {"tag": "hours",
